@@ -3,9 +3,9 @@ layout: default
 title: Omer Bahadir Eryilmaz
 ---
 
-# Omer Bahadir Eryilmaz
+# Welcome
 
-Final-year PhD student in Computer Science. I study topological data analysis and nonlinear signal processing, with a focus on recurrent and quasi-periodic signals.
+I’m a final-year PhD student in Computer Science at University of Birmingham, studying topological data analysis with a focus on recurrent signals.
 
 - [News](pages/news.md)
 - [Blog](pages/blog.md)
