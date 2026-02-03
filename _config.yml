@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpeg" # filename of your profile image placed in /assets/images/
+  avatar           : "omer-photo.jpeg" # filename of your profile image placed in /assets/images/
   name             : "Ömer Eryılmaz" # Update with your name
-  pronouns         : "He/Him" # Update with your pronouns, or remove this line if you prefer not to say 
+  pronouns         : #"He/Him" # Update with your pronouns, or remove this line if you prefer not to say 
   bio              : "Short biography for the left-hand sidebar"
   location         : "Birmingham, UK" # Update with your location
   employer         : "University of Birmingham" # Update with your employer
