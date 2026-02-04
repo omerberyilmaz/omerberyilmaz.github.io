@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Omer Eryilmaz"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Omer Eryilmaz"               # Update this with your name
+description              : &description "Omer's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://omerberyilmaz.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+repository               : "https://omerberyilmaz.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   avatar           : "omer-photo.jpeg" # filename of your profile image placed in /assets/images/
   name             : "Ömer Eryılmaz" # Update with your name
   pronouns         : #"He/Him" # Update with your pronouns, or remove this line if you prefer not to say 
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student Computer Science at the University of Birmingham." # Update with a short bio about yourself
   location         : "Birmingham, UK" # Update with your location
   employer         : "University of Birmingham" # Update with your employer
   uri              : # URL
