@@ -6,6 +6,7 @@ permalink: /teaching/2022-2023-neural-computation-ta
 venue: "School of Computer Science, University of Birmingham"
 date: 2022-09-01
 location: "Birmingham, UK"
+citation: 'School of Computer Science, University of Birmingham. Teaching assistant, academic year 2022&ndash;23, working with Jinming Duan.'
 ---
 
 Teaching assistant for the module *Neural Computation*, academic year 2022–23, working with Jinming Duan.
