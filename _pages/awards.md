@@ -17,6 +17,17 @@ Selected as Editor's Pick for the article:
 
 ---
 
+## University Awards
+
+### Best Research Contribution Award
+**School of Computer Science PGR Away Day 2026**
+5 June 2026 · University of Birmingham
+
+Awarded for a 10-minute research presentation, by the School of Computer Science, University of Birmingham.
+[[Certificate]](/files/pgr-away-day-2026-award.pdf)
+
+---
+
 ## Conference Awards
 
 ### Best Poster Presentation Award
